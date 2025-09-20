@@ -83,7 +83,7 @@ const SideBar = ({
                   className="h-10 w-10 text-yellow_vs hover:cursor-pointer duration-500 hover:scale-125"
                 />
               </a>
-              <a href="https://leetcode.com/u/AishwaryaSharma02/">
+              <a href="https://www.linkedin.com/in/aishwarya-sharma-799428205/">
                 <img
                   src={leetcode}
                   alt="Leetcode Logo"
