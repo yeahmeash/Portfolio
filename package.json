@@ -1,7 +1,7 @@
 {
   "name": "ash",
   "version": "0.1.0",
-  "homepage": "https://yeahmeash-portfolio.netlify.app",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
@@ -20,8 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
