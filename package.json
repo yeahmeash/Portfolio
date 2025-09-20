@@ -1,7 +1,7 @@
 {
   "name": "ash",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://yeahmeash-portfolio.netlify.app",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
