@@ -1,0 +1,1 @@
+My personal portfolio showcases my projects and skills as a Full Stack developer. It’s primarily built with TypeScript for scalable and type-safe code, with HTML for structure, JavaScript for interactivity, and minimal CSS for styling. The project emphasizes clean code, responsive design, and modern front-end practices.
