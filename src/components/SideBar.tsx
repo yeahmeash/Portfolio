@@ -6,8 +6,7 @@ const LinkedinLogo = require("../assets/logos/LinkedinLogo.png");
 const leetcode = require("../assets/logos/leetcode.png");
 const MailLogo = require("../assets/logos/MailLogo.png");
 
-const JSIcon = require("../assets/icons/JSIcon.png");
-const TSIcon = require("../assets/icons/TSIcon.png");
+
 const DARTicon = require("../assets/icons/DARTicon.png");
 const javaIcon = require("../assets/icons/javaIcon.png");
 const reactJS = require("../assets/icons/reactJS.png");
