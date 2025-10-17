@@ -18,27 +18,27 @@ const MobileMenu = () => {
       href: "#",
       icon: <img
       src={javaIcon}
-      alt="JS Icon"
+      alt="java Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: true,
     },
     {
-      name: "Airlines-Booking-Portal",
+      name: "Airlines-Booking",
       href: "#",
       icon:  <img
       src={javaIcon}
-      alt="TS Icon"
+      alt="JAVA Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: false,
     },
     {
-      name: "FullStack",
+      name: "Funds",
       href: "#",
       icon: <img
       src={reactJS}
-      alt="JS Icon"
+      alt="reactJS Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: false,
@@ -48,7 +48,7 @@ const MobileMenu = () => {
       href: "#",
       icon: <img
       src={DARTicon}
-      alt="JS Icon"
+      alt="DART Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: false,

@@ -8,6 +8,9 @@ const MailLogo = require("../assets/logos/MailLogo.png");
 
 const JSIcon = require("../assets/icons/JSIcon.png");
 const TSIcon = require("../assets/icons/TSIcon.png");
+const DARTicon = require("../assets/icons/DARTicon.png");
+const javaIcon = require("../assets/icons/javaIcon.png");
+const reactJS = require("../assets/icons/reactJS.png");
 
 const SideBar = ({
   setWidth,
@@ -120,44 +123,44 @@ export default SideBar;
 
 const WebList = () => (
   <div className="flex flex-col">
-    <a href="/">
+    <a href="https://github.com/yeahmeash/Schedule-manager">
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={javaIcon}
+          alt="JAVA Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>First Project</p>
+        <p>Schedule-manager</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/yeahmeash/Airlines-Booking-Portal">
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
-          src={TSIcon}
-          alt="TS Icon"
+          src={javaIcon}
+          alt="javaIcon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Second Project</p>
+        <p>Airlines-Booking</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/yeahmeash/FundsProductPage">
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={reactJS}
+          alt="reactJS Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Third Project</p>
+        <p>Funds</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/yeahmeash/WorldWaterPark">
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={DARTicon}
+          alt="DARTicon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Fourth Project</p>
+        <p>WorldWaterPark</p>
       </div>
     </a>
   </div>
